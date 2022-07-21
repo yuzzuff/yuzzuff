@@ -35,7 +35,7 @@ These are the tools and languages that I have worked with and have experience ab
 - LeetCode: [Yuzzuf](https://leetcode.com/yuzzuff/)
 - StackOverflow: [Yuzzuf](https://stackoverflow.com/users/19577131/yuzzuf)
 - Twitter: [@Yuzzuff_N1](https://twitter.com/Yuzzuff_N1)
-- Discord: [gourav#2215](https://discord.com/users/998586873641451560)
+- Discord: [Yuzzuf#5208](https://discord.com/users/998586873641451560)
 
 ## Github Stats:
 
