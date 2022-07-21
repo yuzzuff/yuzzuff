@@ -12,7 +12,7 @@ Hi, I'm Yuzzuff ✌️, a 22 years old reverse engineer with interests in low-le
 
 - 🌱 I’m currently learning advanced concepts in AOSP embedded development
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to talk 😅
+- ⚡ Fun fact: i love complex low-level stuff 😅
 
 ## Tools / Languages:
 
