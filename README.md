@@ -1,27 +1,45 @@
-<h1 align="center">Hi 👋, I'm Yuzzuf</h1>
-<h3 align="center">ARM / C / C++ Developer</h3>
+# Hi there 👋 I'm Yuzzuf)
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuzzuff" alt="yuzzuff" /></a> </p>
-
-- 🔭 I’m currently working on **Argon**
-
-- 🌱 I’m currently learning **Windows Kernel**
-
-- 💬 Ask me about **android security, reverse engineering**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/yuzzuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yuzzuff" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yuzzuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yuzzuff" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yuzzuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuzzuff" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=yuzzuff&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="yuzzuff's stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About Me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuzzuff&show_icons=true&locale=en&layout=compact" alt="yuzzuff" /></p>
+<img src="https://komarev.com/ghpvc/?username=yuzzuff&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuzzuff&show_icons=true&locale=en" alt="yuzzuff" /></p>
+Hi, I'm Yuzzuff ✌️, a 22 years old reverse engineer with interests in low-level development too.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuzzuff&" alt="yuzzuff" /></p>
+- 🌱 I’m currently learning advanced concepts in AOSP embedded development
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I love to talk 😅
+
+## Tools / Languages:
+
+These are the tools and languages that I have worked with and have experience about using them.
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)
+![Golang](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=go)
+![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=go)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Clion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=clion)
+
+## Profiles:
+
+- Email: Should be visible in the sidebar
+- LeetCode: [Yuzzuf](https://leetcode.com/yuzzuff/)
+- StackOverflow: [Yuzzuf](https://stackoverflow.com/users/19577131/yuzzuf)
+- Twitter: [@Yuzzuff_N1](https://twitter.com/Yuzzuff_N1)
+- Discord: [gourav#2215](https://discord.com/users/998586873641451560)
+
+## Github Stats:
+
+<p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuzzuff&count_private=true&include_all_commits=true&theme=tokyonight" alt="GouravKhunger's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzzuff&layout=compact&theme=tokyonight" alt="yuzzuff's top language stats" />
+</p>
