@@ -19,9 +19,9 @@ Hi, I'm Yuzzuff ✌️, a 22 years old reverse engineer with interests in low-le
 These are the tools and languages that I have worked with and have experience about using them.
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)
+![C](https://img.shields.io/badge/-CLang-05122A?style=flat&logo=c)
 ![Golang](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=go)
-![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=go)
+![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=arm)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
