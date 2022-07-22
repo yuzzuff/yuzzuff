@@ -31,7 +31,7 @@ These are the tools and languages that I have worked with and have experience ab
 
 ## Profiles:
 
-- Email: Should be visible in the sidebar
+- Email: yuzzuffpm@gmail.com
 - LeetCode: [Yuzzuf](https://leetcode.com/yuzzuff/)
 - StackOverflow: [Yuzzuf](https://stackoverflow.com/users/19577131/yuzzuf)
 - Twitter: [@Yuzzuff_N1](https://twitter.com/Yuzzuff_N1)
