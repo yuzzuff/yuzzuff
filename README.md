@@ -12,7 +12,7 @@ Hi, I'm Yuzzuff ✌️, a 22 years old reverse engineer with interests in low-le
 
 - 🌱 I’m currently developing an x86 -> AARCH64 interpreter.
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: i love complex low-level stuff 🧬
+- ⚡ Fun fact: i love complex low-level stuff 💕
 
 ## Tools / Languages:
 
